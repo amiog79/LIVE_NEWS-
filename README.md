@@ -26,6 +26,7 @@ h3{
 	background-color: black;
 	float: inherit;
 	color: white;
+	font-size: 35px;
 }
 
 body{
