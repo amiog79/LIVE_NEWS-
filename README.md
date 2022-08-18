@@ -38,12 +38,12 @@ body{
 
 <h1>PRADIPTA GHOSH</h1>
 <h3>Bengali Polular News Live</h3>
-<iframe width="380" height="315" src="https://www.youtube.com/embed/Rs3GfkHRwXA"></iframe>
-<iframe width="380" height="315" src="https://www.youtube.com/embed/Td_rW6bNh44"></iframe>
-<iframe width="380" height="315" src="https://www.youtube.com/embed/zJa4vweP3RA"></iframe>
-<iframe width="380" height="315" src="https://www.youtube.com/embed/GgsPVnUAVoE"></iframe>
-<iframe width="380" height="315" src="https://www.youtube.com/embed/4c1lo-tmdcU"></iframe>
-<iframe width="380" height="315" src="https://www.youtube.com/embed/f4sENkugEVE"></iframe>
+<iframe width="375" height="315" src="https://www.youtube.com/embed/Rs3GfkHRwXA"></iframe>
+<iframe width="375" height="315" src="https://www.youtube.com/embed/Td_rW6bNh44"></iframe>
+<iframe width="375" height="315" src="https://www.youtube.com/embed/zJa4vweP3RA"></iframe>
+<iframe width="375" height="315" src="https://www.youtube.com/embed/GgsPVnUAVoE"></iframe>
+<iframe width="375" height="315" src="https://www.youtube.com/embed/4c1lo-tmdcU"></iframe>
+<iframe width="375" height="315" src="https://www.youtube.com/embed/f4sENkugEVE"></iframe>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
 </body>
